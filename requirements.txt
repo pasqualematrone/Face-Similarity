@@ -1,0 +1,8 @@
+Install the following libraries:
+pip install tensorflow
+pip install keras
+pip install pillow
+pip install scipy
+pip install mtcnn
+pip install matplotlib
+pip install keras_applications

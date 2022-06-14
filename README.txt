@@ -1,3 +1,5 @@
+Python tool that uses a convolutional neural network (ResNet-50) to quantify, through the attribution of a score, the difference between the same face wearing or not wearing a mask.
+
 Tells the similarity score for the 2 face images (face matching).
 
 It taked 2 image files as input then it extract the face from it and process the image file.
